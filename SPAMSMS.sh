@@ -4,9 +4,9 @@ toilet -f slant --gay "SPAMSMS"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[33;1m Author: Nazir Bachrul Ulum "
+echo "\033[33;1m Author: Cahyadi OV "
 sleep 1
-echo "\033[32;1m ★Contact WA: +18303392561"
+echo "\033[32;1m ★Contact WA: +6285603385612 "
 sleep 1
 echo "\033[34;1m ★SMK DARUL MA'ARIF"
 sleep 1
@@ -102,24 +102,24 @@ clear
 toilet -f slant --gay "SPAM_SMS"
 echo "\033[31;1mNama tools: SPAM_SMS"
 sleep 1
-echo "\033[33;1mKarya: Mr.N (V2 By Mr.N)"
+echo "\033[33;1mKarya: Mr.C (V2 By Mr.C)"
 sleep 1
 echo "\033[32;1mVersi: v2"
 sleep 1
 echo "\033[36;1mTeam: ★TERMUX INDONESIA★"
 sleep 1
-echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://youtube.com/IndonesiaSecurityLite"
+
 echo "\033[31;1m Spesial Thanks To: "
 echo "\033[36;1m"
-echo "Adit"
-echo "Deny"
+echo "Nazir"
+echo "Pajar"
 echo "Smk Damar"
 echo "SBG-Team"
-echo "Ponorogo Defacer Team"
+echo "SBG Defacer Team"
 sleep 1
 echo "And All Member TERMUX INDONESIA"
-echo "\033[30;1m tunggu 8 detik"
-sleep 8
+echo "\033[30;1m tunggu 10 detik"
+sleep 10
 sh SPAMSMS.sh
 fi
 
@@ -128,7 +128,7 @@ if
 then
 echo "\033[31;1m Keluar"
 sleep 1
-echo "\033[32;1m Sampai berjumpa lagi  :)"
+echo "\033[32;1m Sampai berjumpa lagi Gan  :)"
 sleep 1
 fi
 
